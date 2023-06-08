@@ -1,0 +1,4 @@
+The Amount you input: 500
+Description: Pogi ako pakyu
+Category: Pera to basta
+
